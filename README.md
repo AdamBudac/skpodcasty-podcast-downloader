@@ -49,7 +49,7 @@ python skpodcasty.py
 
 - Downloaded files are named in the format: `{podcast_name}_{episode_number}_{episode_id}.mp3`
 
-- Example: `nazov-podcastu_001_id-epizody.mp3`
+- Example: `podcast-name_001_episode-id.mp3`
 
 ## License
 
