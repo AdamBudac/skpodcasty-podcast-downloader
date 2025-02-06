@@ -39,7 +39,7 @@ python skpodcasty.py
 ```
 
 2. Enter the podcast URL from skpodcasty.sk in the window
-   - Example: `https://skpodcasty.sk/podcasts/nazov-podcastu`
+   - Example: `https://skpodcasty.sk/podcasts/podcast-name`
 
 3. Click the "Stiahnuť" (Download) button
 
